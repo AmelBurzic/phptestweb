@@ -460,7 +460,7 @@ session_start();
                                                             <span class="minutes"></span>:<span class="seconds"></span>
                                                         </div>
                                                     </div>
-                                                    <form action="/php_program/thanks.php" method="post">
+                                                    <form action="/thanks.php" method="post">
 Name: <input type="text" name="name"><br>
 Broj Telefona: <input type="tel" id="phone" name="phone" \r\n 
 pattern="[0-9]{3}-[0-9]{3}-[0-9]{3}"><br>
